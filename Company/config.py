@@ -1,0 +1,1 @@
+# configuração do BD, chaves, etc.

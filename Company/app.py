@@ -1,0 +1,1 @@
+# arquivo principal que inicia o Flask
